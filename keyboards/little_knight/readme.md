@@ -1,6 +1,6 @@
 # Little Knight
 
-![little-knight](https://imgur.com/ )
+![little_knight](https://imgur.com/ )
 
 Little Knight is a keyboard
 
